@@ -16,7 +16,7 @@
 3. Descarregueu el fitxer d’instal·lació i executeu-lo.
 
 4. Seguiu les instruccions de l’assistent fins a completar la instal·lació.
-
+![captura1](Captura1.png)
 📸 *Captura d’exemple:*  
  `![Descàrrega i instal·lació de Bitwarden](./img/instal·lacio_bitwarden.png)`
 
