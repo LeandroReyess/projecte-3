@@ -33,7 +33,19 @@
 3. Deseu el vostre compte.
 
 4. Bitwarden crearà automàticament la vostra **BBDD principal (Vault)**, on es desaran totes les contrasenyes.
+   
    ![captura2](Captura2.png)
+
+
+
+
+
+
+
+
+
+
+
    
    ![captura3](Captura3.png)
 
@@ -57,7 +69,7 @@
 
 4. Copieu-la o deseu-la directament a una nova entrada del vostre Vault.
 
- ![captura4](Captura4.png)
+ ![captura2](Captura2.png)
 
 
 💡 *Recomanació:* Activeu sempre l’opció de caràcters especials i augmenteu la longitud per millorar la seguretat.
