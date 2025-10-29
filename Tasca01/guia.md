@@ -58,7 +58,7 @@
 
 4. Copieu-la o deseu-la directament a una nova entrada del vostre Vault.
 
- ![captura2](Captura2.png)
+ ![captura2](captura2.png)
 
 
 💡 *Recomanació:* Activeu sempre l’opció de caràcters especials i augmenteu la longitud per millorar la seguretat.
