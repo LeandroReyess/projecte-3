@@ -34,6 +34,7 @@
 
 4. Bitwarden crearà automàticament la vostra **BBDD principal (Vault)**, on es desaran totes les contrasenyes.
    ![captura2](Captura2.png)
+   
    ![captura3](Captura3.png)
 
 💡 *Consell:* Apunteu la vostra contrasenya mestra en un lloc físic segur. Sense aquesta, no podreu recuperar l’accés al vostre Vault.
