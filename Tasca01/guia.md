@@ -18,7 +18,7 @@
 4. Seguiu les instruccions de l’assistent fins a completar la instal·lació.
 ![captura1](Captura1.png)
 
- `![Descàrrega i instal·lació de Bitwarden](./img/instal·lacio_bitwarden.png)`
+
 
 ### **1.2 Creació del compte mestre**
 
@@ -33,9 +33,8 @@
 3. Deseu el vostre compte.
 
 4. Bitwarden crearà automàticament la vostra **BBDD principal (Vault)**, on es desaran totes les contrasenyes.
-
-📸  
- `![Creació del compte mestre](./img/creacio_compte_mestre.png)`
+   ![captura2](Captura2.png)
+   ![captura3](Captura3.png)
 
 💡 *Consell:* Apunteu la vostra contrasenya mestra en un lloc físic segur. Sense aquesta, no podreu recuperar l’accés al vostre Vault.
 
@@ -57,8 +56,8 @@
 
 4. Copieu-la o deseu-la directament a una nova entrada del vostre Vault.
 
-📸  
- `![Generador de contrasenyes segures](./img/generador_contrasenyes.png)`
+ ![captura4](Captura4.png)
+
 
 💡 *Recomanació:* Activeu sempre l’opció de caràcters especials i augmenteu la longitud per millorar la seguretat.
 
@@ -78,8 +77,8 @@
 
 3. Feu clic a **Save**.
 
-📸  
- `![Afegir credencial de correu electrònic](./img/credencial_gmail.png)`
+ ![captura4](Captura4.png)
+
 
 ### **3.2 Desar una credencial d’una aplicació o servei web**
 
@@ -89,9 +88,8 @@
 2. Ompliu usuari i contrasenya.
 
 3. Deseu la credencial.
-
-📸  
- `![Credencial servei web](./img/credencial_github.png)`
+ ![captura5](Captura5.png)
+ 
 
 ### **3.3 Ús de l’extensió del navegador**
 
