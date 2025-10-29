@@ -34,20 +34,9 @@
 
 4. Bitwarden crearà automàticament la vostra **BBDD principal (Vault)**, on es desaran totes les contrasenyes.
    
-   ![captura2](Captura2.png)
+   ![captura2](captura2.png)
 
-
-
-
-
-
-
-
-
-
-
-   
-   ![captura3](Captura3.png)
+   ![captura3](captura3.png)
 
 💡 *Consell:* Apunteu la vostra contrasenya mestra en un lloc físic segur. Sense aquesta, no podreu recuperar l’accés al vostre Vault.
 
@@ -93,6 +82,7 @@
  ![captura4](Captura4.png)
 
 
+
 ### **3.2 Desar una credencial d’una aplicació o servei web**
 
 1. Feu el mateix procés que abans, però introduïu l’URL del servei, per exemple:  
@@ -102,6 +92,8 @@
 
 3. Deseu la credencial.
  ![captura5](Captura5.png)
+
+
  
 
 ### **3.3 Ús de l’extensió del navegador**
