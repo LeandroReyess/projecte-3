@@ -6,7 +6,7 @@
 - **Valor TTL:** `1442`  
 - **Servidor que ha respost:** `127.0.0.53`
 
-![Captura IP i TTL](ruta/de/la/foto1.png)
+![ssehgerd](Dig2.png)
 
 ---
 
@@ -17,7 +17,7 @@
 - `ns-130.awsdns-16.com.`  
 - `ns-1689.awsdns-19.co.uk.`
 
-![Captura servidors DNS](ruta/de/la/foto2.png)
+![ssehgerd](Dig3.png)
 
 ---
 
@@ -26,7 +26,7 @@
 - **Contacte:** `root.dns1.nominalia.com.` → `root@dns1.nominalia.com`  
 - **Número de sèrie:** `1761028965`
 
-![Dig1.png](ruta/de/la/foto3.png)
+![ssehgerd](Dig5.png)
 
 ---
 
@@ -34,7 +34,7 @@
 
 La IP `147.83.2.135` pertany a la **xarxa de la Universitat Politècnica de Catalunya (UPC)** i està vinculada a diversos noms de domini institucionals mitjançant **registres PTR**.
 
-![Captura informació PTR](ruta/de/la/foto4.png)
+![ssehgerd](Dig6.png)
 
 ---
 
@@ -42,7 +42,9 @@ La IP `147.83.2.135` pertany a la **xarxa de la Universitat Politècnica de Cata
 
 La resposta és **no autoritativa**, ja que el servidor que ha contestat (`127.0.0.53`) **no és el que gestiona directament** el domini `tecnocampus.cat`.
 
-![Captura resposta no autoritativa](ruta/de/la/foto5.png)
+![ssehgerd](Dig7.png)
+![ssehgerd](Dig8.png)
+![ssehgerd](Dig9.png)
 
 ---
 
