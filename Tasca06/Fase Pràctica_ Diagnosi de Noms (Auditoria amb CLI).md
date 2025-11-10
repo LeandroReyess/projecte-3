@@ -43,7 +43,12 @@ La IP `147.83.2.135` pertany a la **xarxa de la Universitat Politècnica de Cata
 La resposta és **no autoritativa**, ja que el servidor que ha contestat (`127.0.0.53`) **no és el que gestiona directament** el domini `tecnocampus.cat`.
 
 ![ssehgerd](Dig7.png)
+
+
 ![ssehgerd](Dig8.png)
+
+
+
 ![ssehgerd](Dig9.png)
 
 ---
