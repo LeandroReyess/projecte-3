@@ -1,7 +1,7 @@
 # 🧩 T06 Fase Pràctica: Diagnosi de Noms (Auditoria amb CLI)
 
 ## 🌐 Informació general
-
+![ssehgerd](Dig1.png)
 - **IP de resposta:** `83.247.151.214`  
 - **Valor TTL:** `1442`  
 - **Servidor que ha respost:** `127.0.0.53`
