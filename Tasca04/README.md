@@ -1,4 +1,4 @@
-# 🧩 T03: Implementació d’un servei d’autenticació centralitzada amb OpenLDAP
+# 🧩 T04: Implementació d’un servei d’autenticació centralitzada amb OpenLDAP
 
 ## 🏢 Context: Innovatech i la necessitat de centralització
 
