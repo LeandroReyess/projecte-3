@@ -19,3 +19,4 @@ Aquest vídeo és un **producte del qual podeu estar orgullosos** i representa u
 - Integrar projectes realitzats dins del **portafoli professional**.  
 - Desenvolupar habilitats de **comunicació tècnica i divulgació de conceptes**.
 
+video: https://docs.google.com/videos/d/19nunbTUjm2ETt6tqimhTHGLagcTCyQyQAT5GTSN7glE/edit?scene=id.g347acda4_0_0#scene=id.g347acda4_0_0
