@@ -90,23 +90,3 @@ Nom de l’estudiant
 
 ---
 
-Gràcies per formar part d’EverPia 2. Ara el foc està encès. Agafa l’extintor... i el teclat.  
-📝 Tasques
-# Podeu consultar totes les tasques fent clic a la tasca corresponent:
-
-Tasca 1
-Tasca 2
-Tasca 3
-Tasca 4
-Tasca 5
-Tasca 6
-Tasca 7
-Tasca 8
-📝 Productes
-# Podeu consultar tots els productes fent clic al producte corresponent:
-
-Producte 1
-Producte 3
-Producte 4
-Producte 5
-Producte 6
