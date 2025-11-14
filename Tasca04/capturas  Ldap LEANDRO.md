@@ -4,7 +4,7 @@ sudo apt update && sudo apt upgrade \-y
 
 Editem el fitxer /etc/hosts per definir el domini:
 
-![][image1]![][image2]  
+![][image1.png]![][image2]  
 Verifiquem que els canvis s’han aplicat correctament al domini.
 
 ![][image3]
