@@ -24,3 +24,4 @@ El projecte parteix d’un **product backlog** proporcionat, que conté totes le
 ## Conclusió
 Seguint aquest mètode, el projecte es desenvoluparà de manera ordenada i transparent, facilitant la col·laboració i assegurant que totes les tasques es completen dins dels terminis establerts.
 
+https://planner.cloud.microsoft/webui/plan/ztnwcU-WBUGYeUc_rapxnZYABNKU/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317
