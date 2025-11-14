@@ -107,7 +107,11 @@
 4. Quan accediu a una pàgina d’inici de sessió (p. ex. Gmail o GitHub), l’extensió detectarà automàticament el lloc i mostrarà les credencials desades.
 
 5. Feu clic sobre la credencial per **emplenar automàticament** el formulari.
+   ![captura13](Captura13.png)
 
+
+
+ ![captura14](Captura14.png)
 📸  
  `![Ús de l’extensió del navegador](./img/extensio_navegador.png)`
 
@@ -128,6 +132,7 @@
 3. Introduïu la vostra contrasenya mestra per confirmar.
 
 4. Deseu el fitxer en una ubicació temporal segura.
+  ![captura14](Captura14.png)
 
 📸  
  `![Exportació del Vault](./img/exportacio_vault.png)`
