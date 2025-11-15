@@ -100,19 +100,21 @@ Tot seguit, apareixerà el panell d’inici de sessió, on accedirem amb l’usu
 ![image29](image29.png)
 ![image30](image30.png)
 ![image31](image31.png)
-
+![image32](image32.png)
+![image33](image33.png)
+![image34](image34.png)
+![image34](image34.png)
+![image35](image35.png)
 **Un cop dins del client, haurem de configurar el nom de l’equip perquè formi part del mateix domini que el servidor.**
 
 **Com que no disposem d’un servei DNS, editarem el fitxer /etc/hosts del client per tal que pugui resoldre el nom del servidor correctament.**
 
-![image32](image32.png)
 
-![image33](image33.png)
 **Ara comprovarem que els noms es resolen correctament executant les comandes següents:**
 
 **Per assegurar-nos que el nom de l’equip s’ha canviat correctament:**
 
-![image34](image34.png)
+
 **Per verificar que la resolució DNS cap al servidor de domini és correcta:**
 
 ![image35](image35.png)
