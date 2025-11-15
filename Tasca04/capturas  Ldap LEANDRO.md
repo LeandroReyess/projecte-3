@@ -110,8 +110,8 @@ Tot seguit, apareixerà el panell d’inici de sessió, on accedirem amb l’usu
 **Un cop dins del client, haurem de configurar el nom de l’equip perquè formi part del mateix domini que el servidor.**
 
 **Com que no disposem d’un servei DNS, editarem el fitxer /etc/hosts del client per tal que pugui resoldre el nom del servidor correctament.**
-
-
+![image37](image37.png)
+![image38](image38.png)
 **Ara comprovarem que els noms es resolen correctament executant les comandes següents:**
 
 **Per assegurar-nos que el nom de l’equip s’ha canviat correctament:**
@@ -128,9 +128,9 @@ Tot seguit, apareixerà el panell d’inici de sessió, on accedirem amb l’usu
 
 **A continuació, s’iniciarà el procés de configuració dels mòduls d’autenticació.**
 
-![image37](image37.png)
 
-![image38](image38.png)
+
+
 ![image39](image39.png)
 ![image40](image40.png)
 ![image41](image41.png)
