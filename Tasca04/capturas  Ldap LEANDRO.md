@@ -148,7 +148,7 @@ Tot seguit, apareixerà el panell d’inici de sessió, on accedirem amb l’usu
 ![image51](image51.png)
 Ara configurarem l’arxiu nsswitch.conf per indicar que s’utilitzarà LDAP per a la gestió d’usuaris i grups.
 ![image52](image52.png)
-
+![image53](image53.png)
 Al fitxer /etc/pam.d/common-password, eliminarem la línia que contingui el terme use\_authok.  
 
 Al fitxer /etc/pam.d/common-session, afegirem la línia següent per permetre la creació automàtica dels perfils d’usuari:
@@ -158,7 +158,7 @@ Al fitxer /etc/pam.d/common-session, afegirem la línia següent per permetre la
 
 Un cop el servei s’hagi reiniciat, comprovarem que detecta correctament els usuaris LDAP amb aquesta comanda:
 
-![image52](image52.png)
+
 ![image53](image53.png)
 ![image54](image54.png)
 ![image55](image55.png)
