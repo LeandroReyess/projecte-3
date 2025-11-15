@@ -159,7 +159,6 @@ Al fitxer /etc/pam.d/common-session, afegirem la línia següent per permetre la
 Un cop el servei s’hagi reiniciat, comprovarem que detecta correctament els usuaris LDAP amb aquesta comanda:
 
 
-![image53](image53.png)
 ![image54](image54.png)
 ![image55](image55.png)
 ![image56](image56.png)
