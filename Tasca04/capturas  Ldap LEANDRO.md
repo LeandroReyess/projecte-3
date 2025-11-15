@@ -9,31 +9,31 @@ Editem el fitxer /etc/hosts per definir el domini:
 ![image2](image2.png)
 Verifiquem que els canvis s’han aplicat correctament al domini.
 
-![][image3]
+![image3](image3.png)
 
 Per permetre la comunicació amb l’amfitrió, configurem una interfície Host-Only:  
-![][image4]  
-![][image5]  
+![image4](image4.png)
+![image5](image5.png)
 Editarem l’arxiu /etc/netplan/50-cloud-init.yaml amb la comanda següent per habilitar la interfície:
 
-![][image6]  
+![image6](image6.png)
 Instal·lem el servidor LDAP i les utilitats:
 
-![][image7]
+![image7](image7.png)
 
 Durant la instal·lació, el sistema ens demanarà la contrasenya de l’administrador. Introduirem p@ssw0rd, tal com s’indica al Plec de Condicions Tècniques.
 
-![][image8]
+![image8](image8.png)
 
-![][image9]  
-![][image10]  
-![][image11]
+![image9](image9.png)
+![image10](image10.png)
+!![image11](image11.png)
 
 Un cop executada la comanda anterior, comprovarem que el servei s’està executant correctament amb la següent comanda:
 
-![][image12]  
+![image12](image12.png)
 Ara comprovarem que el directori s’ha creat amb el nom desitjat:  
-![][image13]  
+![image13](image13.png)
 Ara haurem de crear dues unitats organitzatives (*OUs*): users i groups, mitjançant un fitxer .ldif.
 
 Per fer-ho, crearem l’arxiu OU\_users.ldif amb la següent comanda:
