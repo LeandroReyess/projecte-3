@@ -151,12 +151,18 @@ Al fitxer /etc/pam.d/common-session, afegirem la línia següent per permetre la
 Un cop el servei s’hagi reiniciat, comprovarem que detecta correctament els usuaris LDAP amb aquesta comanda:
 
 ![image52](image52.png)
+![image53](image53.png)
+![image54](image54.png)
+![image55](image55.png)
+![image56](image56.png)
+![image57](image57.png)
+![image58](image58.png)
 Per finalitzar, editarem el fitxer /etc/pam.d/gdm-launch-environment per permetre l’inici de sessió gràfica dels usuaris del domini.  
-![][image53]  
+![image59](image59.png)
 Reiniciarem el client i, a la pantalla d’inici de sessió, farem clic a Not listed per introduir manualment un altre usuari.  
-![][image54]  
+![image60](image60.png)
 Un cop iniciada la sessió, podem comprovar que tot s’ha creat correctament.  
-![][image55]  
+![image61](image61.png) 
 Si repetim el mateix procés amb l’usuari manager01, obtindrem el mateix resultat.  
-![][image56]
+
 
