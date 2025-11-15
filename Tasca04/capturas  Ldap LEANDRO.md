@@ -112,28 +112,28 @@ Tot seguit, apareixerà el panell d’inici de sessió, on accedirem amb l’usu
 **Com que no disposem d’un servei DNS, editarem el fitxer /etc/hosts del client per tal que pugui resoldre el nom del servidor correctament.**
 ![image37](image37.png)
 ![image38](image38.png)
+
+
 **Ara comprovarem que els noms es resolen correctament executant les comandes següents:**
 
 **Per assegurar-nos que el nom de l’equip s’ha canviat correctament:**
 
+![image39](image39.png)
 
 **Per verificar que la resolució DNS cap al servidor de domini és correcta:**
 
 
+![image40](image40.png)
 
 ### **Instal·lació dels mòduls d’autenticació LDAP**
 
 **Per poder utilitzar el client dins del domini, hem d’instal·lar els mòduls necessaris amb la comanda següent:**
-
+![image41](image41.png)
 
 **A continuació, s’iniciarà el procés de configuració dels mòduls d’autenticació.**
 
 
 
-
-![image39](image39.png)
-![image40](image40.png)
-![image41](image41.png)
 ![image42](image42.png) 
 ![image43](image43.png) 
 **er comprovar la connectivitat amb el servidor, farem una consulta ldapsearch des del client amb la comanda següent:**
