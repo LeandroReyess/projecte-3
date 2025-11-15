@@ -136,17 +136,21 @@ Tot seguit, apareixerà el panell d’inici de sessió, on accedirem amb l’usu
 
 ![image42](image42.png) 
 ![image43](image43.png) 
-**er comprovar la connectivitat amb el servidor, farem una consulta ldapsearch des del client amb la comanda següent:**
-
 ![image44](image44.png)
 ![image45](image45.png)
-Ara configurarem l’arxiu nsswitch.conf per indicar que s’utilitzarà LDAP per a la gestió d’usuaris i grups.
-
 ![image46](image46.png)
+
 ![image47](image47.png)
-Al fitxer /etc/pam.d/common-password, eliminarem la línia que contingui el terme use\_authok.  
 ![image48](image48.png)
 ![image49](image49.png)
+**er comprovar la connectivitat amb el servidor, farem una consulta ldapsearch des del client amb la comanda següent:**
+![image50](image50.png)
+
+Ara configurarem l’arxiu nsswitch.conf per indicar que s’utilitzarà LDAP per a la gestió d’usuaris i grups.
+![image51](image51.png)
+
+Al fitxer /etc/pam.d/common-password, eliminarem la línia que contingui el terme use\_authok.  
+
 Al fitxer /etc/pam.d/common-session, afegirem la línia següent per permetre la creació automàtica dels perfils d’usuari:
 
 ![image50](image50.png)
