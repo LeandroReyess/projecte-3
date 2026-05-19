@@ -1,170 +1,161 @@
+## 1 Instal·lació i Configuració Inicial
 
+El primer pas és accedir a la pàgina oficial de Bitwarden, des d’on descarregarem el gestor de contrasenyes.
 
-# **🧰 Guia d’Ús Tècnica – Bitwarden**
+![Pàgina principal de Bitwarden][image1]
 
-**Fase 2 – Projecte 3: Gestió Segura de Contrasenyes**
+Un cop dins de la web, ens dirigim a l’apartat Downloads, on podem descarregar el fitxer .exe per al nostre sistema operatiu, en aquest cas Windows 11\.
 
-## **1️⃣ Instal·lació i Configuració Inicial**
+![Pàgina Downloads][image2]
 
-### **1.1 Descàrrega de l’aplicació**
+Aquí seleccionem l’instal·lador estàndard, anomenat Bitwarden-Installer.exe.
 
-1. Accediu al lloc web oficial de Bitwarden:  
-    👉 [https://bitwarden.com/download](https://bitwarden.com/download)
+Quan el fitxer s’hagi descarregat, l’executem i se’ns obrirà una finestra en la qual haurem de seguir els passos indicats per completar la instal·lació.
 
-2. Seleccioneu la versió corresponent al vostre sistema operatiu (Windows, macOS o Linux).
+![][image3]
 
-3. Descarregueu el fitxer d’instal·lació i executeu-lo.
+Seleccionem l’opció d’instal·lar-lo només per al nostre usuari i tot seguit començarà la instal·lació.
 
-4. Seguiu les instruccions de l’assistent fins a completar la instal·lació.
-![captura1](Captura1.png)
+Un cop finalitzada, premem Finish per tancar l’instal·lador.
 
+![Finalització de la instal·lació de Bitwarden][image4]
 
+En entrar a Bitwarden per primera vegada, apareix el panell d’inici de sessió, on haurem de fer clic a Crea un compte.
 
-### **1.2 Creació del compte mestre**
+![Panell inici de sessió de Bitwarden][image5]
 
-1. Un cop instal·lat, obriu Bitwarden i feu clic a **“Create Account”**.
+A continuació, se’ns demanarà el nom i el correu electrònic que volem utilitzar.
 
-2. Introduïu:
+![][image6]
 
-   * Correu electrònic corporatiu o personal.
+Després de prémer Continua, rebrem un correu electrònic per continuar amb el procés de creació del compte.
 
-   * Contrasenya mestra **robusta** (mínim 12 caràcters, amb majúscules, minúscules, números i símbols).
+![][image7]
 
-3. Deseu el vostre compte.
+En aquest correu, verifiquem l’adreça de correu electrònic.
 
-4. Bitwarden crearà automàticament la vostra **BBDD principal (Vault)**, on es desaran totes les contrasenyes.
-   
-   ![captura2](captura2.png)
+![Verificació de correu de Bitwarden][image8]
 
-   ![captura3](captura3.png)
+Amb l’email verificat, només queda definir la contrasenya mestra.
 
-💡 *Consell:* Apunteu la vostra contrasenya mestra en un lloc físic segur. Sense aquesta, no podreu recuperar l’accés al vostre Vault.
+![][image9]
 
-## **2️⃣ Generació de Contrasenyes Segures**
+Un cop completats tots aquests passos, el compte ja estarà creat, i només ens quedarà iniciar sessió a Bitwarden.
 
-### **2.1 Accés al generador de contrasenyes**
+![][image10]
 
-1. A la interfície principal, feu clic a la icona **“Generator”** o aneu al menú lateral esquerre i seleccioneu **“Password Generator”**.
+Introduïm la contrasenya.
 
-2. Configureu els paràmetres segons les vostres necessitats:
+![][image11]
 
-   * **Longitud:** recomanat mínim 16 caràcters.
+I finalment, un cop iniciada la sessió, podrem veure el menú principal de Bitwarden, des d’on gestionarem totes les nostres contrasenyes.
 
-   * **Incloure majúscules i minúscules.**
+![][image12]
 
-   * **Afegir números i caràcters especials.**
+---
 
-3. Feu clic a **“Generate”** per obtenir una nova contrasenya.
+## 2 Generació de Contrasenyes Segures
 
-4. Copieu-la o deseu-la directament a una nova entrada del vostre Vault.
+Una vegada Bitwarden està instal·lat i configurat, hem d’aprendre a utilitzar el generador de contrasenyes.
 
- ![captura2](captura2.png)
+Per crear una nova entrada, hem de fer clic al botó \+.
 
+![Botó per a afegir una nova entrada][image13]
 
-💡 *Recomanació:* Activeu sempre l’opció de caràcters especials i augmenteu la longitud per millorar la seguretat.
+A continuació, podrem escollir entre els diferents tipus d’entrada que volem crear.
 
-## **3️⃣ Exemples d’Ús i Emplenament Automàtic**
+![Tipus d'entrada a crear][image14]
 
-### **3.1 Desar una credencial d’un compte de correu electrònic**
+En aquest cas, crearem una entrada d’Inici de sessió, que és la més habitual.
 
-1. Al tauler principal, feu clic a **“Add Item” → “Login”**.
+Apareixeran diversos camps per completar:
 
-2. Ompliu els camps:
+![Diferents camps a completar][image15]
 
-   * **Nom:** Gmail (o el servei que correspongui)
+* Nom de l’element: és el nom amb què volem guardar l’entrada.  
+* Carpeta: opcional, per agrupar diferents entrades i mantenir-les més organitzades.  
+* Nom d’usuari: podem introduir-ne un manualment o generar-lo automàticament des del mateix Bitwarden.
 
-   * **Usuari:** exemple@gmail.com
+![Generador d'usuaris][image16]
 
-   * **Contrasenya:** utilitzeu el generador de contrasenyes per crear-ne una segura.
+Un cop definit el nom d’usuari, generem la contrasenya. Bitwarden permet personalitzar diversos paràmetres, com la longitud, l’ús de caràcters especials, majúscules o números, per així millorar la seguretat de la contrasenya.
 
-3. Feu clic a **Save**.
+![Generador de contrasenyes][image17]
 
- ![captura4](Captura4.png)
+---
 
+## 3 Exemples d'Ús i Emplenament Automàtic
 
+Per a entendre millor el funcionament de Bitwarden, crearem una entrada per desar les credencials del nostre compte de Gmail.
 
-### **3.2 Desar una credencial d’una aplicació o servei web**
+![][image18]
 
-1. Feu el mateix procés que abans, però introduïu l’URL del servei, per exemple:  
-    `https://github.com`
+D’aquesta manera, només haurem generat l’entrada per copiar i enganxar manualment les credencials. No obstant això, perquè Bitwarden pugui autocompletar-les en una aplicació o servei web, haurem d’afegir el lloc web on volem que s’autocompletin.
 
-2. Ompliu usuari i contrasenya.
+![][image19]
 
-3. Deseu la credencial.
- ![captura5](Captura5.png)
+Tot i això, aquests passos no són suficients perquè l’autocompletat funcioni automàticament. Per aconseguir-ho, cal instal·lar l’extensió de Bitwarden al nostre navegador.
 
+En el cas de Google Chrome, ens dirigirem a la Chrome Web Store i buscarem l’extensió de Bitwarden.
 
- 
+![Extensió de Bitwarden a la Chrome Web Store][image20]
 
-### **3.3 Ús de l’extensió del navegador**
+Una vegada instal·lada, haurem d’iniciar sessió amb el nostre compte prèviament creat. El primer pas és introduir el correu electrònic amb què ens vam registrar per accedir a la caixa forta.
 
-1. Aneu a la **Chrome Web Store** o **Firefox Add-ons** i cerqueu “Bitwarden”.
+![][image10]
 
-2. Instal·leu l’extensió del navegador.
+A continuació, introduirem la contrasenya mestra creada anteriorment.
 
-3. Inicieu sessió amb el vostre compte mestre.
+![][image21]
 
-4. Quan accediu a una pàgina d’inici de sessió (p. ex. Gmail o GitHub), l’extensió detectarà automàticament el lloc i mostrarà les credencials desades.
+Per motius de seguretat, Bitwarden ens enviarà un correu electrònic amb un codi de verificació per confirmar la nostra identitat.
 
-5. Feu clic sobre la credencial per **emplenar automàticament** el formulari.
-   ![captura13](Captura13.png)
+![Correu de verificació de la nostra identitat][image22]
 
+Un cop introduït el codi de verificació, ja tindrem accés a la nostra caixa forta des de l’extensió.
 
+![][image23]
 
- ![captura14](Captura14.png)
-📸  
- `![Ús de l’extensió del navegador](./img/extensio_navegador.png)`
+Finalment, si anem al panell d’inici de sessió de Gmail, en introduir el camp del correu electrònic, Bitwarden mostrarà l’opció d’autocompletar les credencials que hem desat prèviament.
 
-💡 *Nota:* L’emplenament automàtic redueix errors humans i evita la reutilització de contrasenyes.
+![][image24]
 
-## **4️⃣ Gestió de Còpies de Seguretat (Backup)**
+---
 
-### **4.1 Exportar la base de dades**
+## 4 Gestió de Còpies de Seguretat (Backup)
 
-1. A l’aplicació d’escriptori o web, accediu a **Settings → Tools → Export Vault**.
+Una vegada tenim diverses entrades registrades a Bitwarden, és recomanable fer una còpia de seguretat de la caixa forta amb totes les credencials. Per fer-ho, seguirem els passos següents:
 
-2. Trieu el format de fitxer:
+Ens dirigim a la part superior esquerra, a l’apartat Archivo, i fem clic a Exportar caja fuerte.
 
-   * `.json` (text pla) o
+![Panell 'Exportar caja fuerte'][image25]
 
-   * `.csv` (full de càlcul)
+Un cop ho fem, apareixerà una finestra on podrem escollir el format amb què volem exportar la nostra caixa forta.
 
-3. Introduïu la vostra contrasenya mestra per confirmar.
+![Panell 'Exportar caja fuerte'][image26]
 
-4. Deseu el fitxer en una ubicació temporal segura.
-  ![captura14](Captura14.png)
+En aquest cas, seleccionarem el format .json i, tot seguit, farem clic a Exportar caja fuerte per iniciar el procés d’exportació.
 
-📸  
- `![Exportació del Vault](./img/exportacio_vault.png)`
+![Panell 'Exportar caja fuerte'][image27]
 
-⚠️ *Atenció:* L’arxiu exportat **no està xifrat**. No el guardeu mai permanentment en un disc no segur.
+A continuació, Bitwarden ens demanarà la contrasenya mestra per verificar la nostra identitat.
 
-### **4.2 Bones pràctiques per emmagatzemar el backup**
+![Panell 'Exportar caja fuerte'][image28]
 
-* Desa la còpia en una **clau USB xifrada** o disc dur extern protegit amb contrasenya.
+Després d’introduir-la, ens preguntarà on volem guardar l’arxiu exportat.
 
-* Alternativament, puja-la a un **servei de núvol amb xifratge de punta a punta** (com Tresorit o Proton Drive).
+![Guardant la caixa forta][image29]
 
-* Mantingues sempre una **única còpia actualitzada** i elimina versions antigues.
+Un cop exportada la caixa forta, per importar-la de nou només cal anar a “Archivo” i a “Importar datos”.
 
-* No comparteixis mai el fitxer exportat per correu o missatgeria sense xifrar-lo abans (p. ex. amb VeraCrypt o 7-Zip amb contrasenya forta).
+![Important la caixa forta][image30]
 
-📸  
- `![Emmagatzematge segur del backup](./img/backup_seguretat.png)`
+En aquesta finestra, haurem de seleccionar la caixa forta existent on volem afegir les entrades, escollir el tipus de format utilitzat en l’exportació (en aquest cas, .json) i adjuntar l’arxiu. Finalment, farem clic a “Importar datos” per completar el procés.
 
-## **✅ Conclusions**
+![Important la caixa forta][image31]
 
-Aquesta guia permet a l’equip tècnic:
+Quan la importació s’hagi realitzat correctament, Bitwarden mostrarà una notificació indicant el nombre d’entrades importades a la nostra caixa forta.
 
-* Instal·lar i configurar Bitwarden correctament.
+![Important la caixa forta][image32]
 
-* Generar contrasenyes segures i úniques.
-
-* Desar i gestionar credencials de manera centralitzada.
-
-* Utilitzar l’emplenament automàtic per millorar la productivitat.
-
-* Fer còpies de seguretat de forma segura, evitant la pèrdua o exposició de dades.
-
-Amb aquestes pràctiques, l’organització garanteix una **gestió segura i eficient de totes les contrasenyes corporatives**.
-
+És altament recomanable emmagatzemar aquest arxiu .json en un dispositiu USB xifrat o bé en un servei d’emmagatzematge al núvol amb xifratge, per garantir una major seguretat de les credencials.
