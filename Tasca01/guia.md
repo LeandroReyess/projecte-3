@@ -2,7 +2,7 @@
 
 El primer pas és accedir a la pàgina oficial de Bitwarden, des d’on descarregarem el gestor de contrasenyes.
 
-![image1](image1.png)
+![image](image1.png)
 
 Un cop dins de la web, ens dirigim a l’apartat Downloads, on podem descarregar el fitxer .exe per al nostre sistema operatiu, en aquest cas Windows 11\.
 
