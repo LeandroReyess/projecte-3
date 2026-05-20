@@ -2,7 +2,7 @@
 
 El primer pas és accedir a la pàgina oficial de Bitwarden, des d’on descarregarem el gestor de contrasenyes.
 
-![image](image1.png)
+![image1](image1.png)
 
 Un cop dins de la web, ens dirigim a l’apartat Downloads, on podem descarregar el fitxer .exe per al nostre sistema operatiu, en aquest cas Windows 11\.
 
@@ -37,7 +37,7 @@ En aquest correu, verifiquem l’adreça de correu electrònic.
 
 Amb l’email verificat, només queda definir la contrasenya mestra.
 
-![image9(image9.png)
+![image9](image9.png)
 
 Un cop completats tots aquests passos, el compte ja estarà creat, i només ens quedarà iniciar sessió a Bitwarden.
 
